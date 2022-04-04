@@ -26,6 +26,10 @@ const marytesKiekis = maryte.length;
 const marytesVidurkis = marytesSuma / marytesKiekis;
 console.log('Maryte:', marytesVidurkis);
 */
+const petras = [10, 4, 8, 2];
+const maryte = [6, 5, 2, 9];
+const jonas = [7, 4, 4, 3];
+const ona = [5, 6, 7, 2];
 
 function vidurkis(pazymiuSarasas) {
     let pazymiuSuma = 0;
